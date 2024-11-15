@@ -1,4 +1,4 @@
-// Esperamos a que el DOM cargue completamente antes de ejecutar el código
+// Esperamos a que el DOM cargue completamente antes de ejecutar las lineas de codigo
 document.addEventListener("DOMContentLoaded", function() {
     const toggleButton = document.getElementById('toggleButton');
     const extraInfo = document.getElementById('extraInfo');
